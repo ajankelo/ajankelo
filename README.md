@@ -16,11 +16,11 @@ Skills:
 
 
 Tech Stack:
-✅ Languages: Python, Javascript, SQL, Git
-✅ DL frameworks: PyTorch, Fastai, IceVision, Hugging Face
-✅ DS libraries: scikit-learn, scipy, sklearn, statsmodels, seaborn, matplotlib, pandas, numpy
-✅ MLOps: ZenML, Roboflow, FiftyOne.
-✅ Data Labeling: Label Studio, CVAT.
-✅ DL experiment tracking: Weights & Biases
-✅ DL deployment: Hugging Face Spaces, Gradio
-✅ Database: Firebase, PostgreSQL, MySQL, SQLite, BigQuery, Neo4J
+- ✅ Languages: Python, Javascript, SQL, Git
+- ✅ DL frameworks: PyTorch, Fastai, IceVision, Hugging Face
+- ✅ DS libraries: scikit-learn, scipy, sklearn, statsmodels, seaborn, matplotlib, pandas, numpy
+- ✅ MLOps: ZenML, Roboflow, FiftyOne.
+- ✅ Data Labeling: Label Studio, CVAT.
+- ✅ DL experiment tracking: Weights & Biases
+- ✅ DL deployment: Hugging Face Spaces, Gradio
+- ✅ Database: Firebase, PostgreSQL, MySQL, SQLite, BigQuery, Neo4J
